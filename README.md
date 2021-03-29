@@ -3,6 +3,9 @@
 ## Thermal images; 8 participants; over 1,200 images total
 The Chips Thermal Face Dataset is a large-scale (over 1,200 images, Male and Female, from 3 different continents, aged 18-23) thermal face dataset. This dataset will be available to researches worldwide to create accurate thermal facial classification and thermal facial recogintion  systems using state-of-the art deep learning methods.
 
+### Source
+Images were captured using a FLIR® Lepton 3.5 Thermal Imaging Camera.
+
 ### Image Variation
 The images are varied in multiple ways:
 1. [Location captured] Pictures were taken in different room around a house and some were taken outdoors.
